@@ -6,34 +6,8 @@
 
 By the end of this, students should be able to:
 
-- Objective 1
-- Objective 2
-- Objective 3
+- Use plain english to explain rspec code
 
 ## Instructions
 
-Include explict step-by-step instructions about the goals of the assignment, and how to run the code.
-
-Make sure to wrap section of code in appropriate markdown like `ls -al`, and denote the language as below for longer sections:
-
-```ruby
-x = 2
-y = 3
-puts x + y
-```
-
-## Bonus (Optional Section)
-
-If you're looking for extra challenge or practice once you've completed the above, try to...
-
-## Notes
-
-Gotcha's and extra information
-
-## Additional Resources
-
-List additional related resources such as videos, blog posts and official documentation.
-
-- Item 1
-- Item 2
-- Item 3
+Fork and clone this repo. Run `bundle` then run `rspec`. Open `spec/word_count_spec.rb`, then sit tight.
