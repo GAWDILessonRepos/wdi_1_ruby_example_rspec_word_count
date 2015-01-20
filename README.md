@@ -1,6 +1,6 @@
 ![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 
-# Reading RSpec in English
+# Example: RSpec Word Count
 
 ## Objectives
 
@@ -29,4 +29,4 @@ Spoilers: [f13d53](https://github.com/ga-wdi-boston/wdi_1_ruby_example_rspec_wor
 ## Additional Resources
 
 - [Four-Phase Test](http://robots.thoughtbot.com/four-phase-test): most tests follow this pattern, and it makes them easier to follow.
-- [Better Specs { rspec guidelines with ruby }](http://betterspecs.org/) }]
+- [Better Specs](http://betterspecs.org/) }]
