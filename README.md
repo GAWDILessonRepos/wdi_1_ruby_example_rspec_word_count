@@ -24,6 +24,8 @@ Since our tests pass and we understand the intent of each method from the exampl
 
 Challenge yourself by refactoring the code in `lib/word_count.rb`. Consider what `self` is on each line it appears and whether it is necessary to explicitly send messages to `self`. Can you make `String#word_frequency` into one line while keeping it "intention-revealing" and readable?
 
+Spoilers: f13d53a3b42e40d34d6dffe6b520509df3e0ed1b
+
 ## Additional Resources
 
 - [Four-Phase Test](http://robots.thoughtbot.com/four-phase-test): most tests follow this pattern, and it makes them easier to follow.
