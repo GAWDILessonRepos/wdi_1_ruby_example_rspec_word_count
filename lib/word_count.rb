@@ -1,15 +1,9 @@
 class String
   def word_count
-    self.split.length
+    split.length
   end
 
   def word_frequency
-    frequency = Hash.new(0)
-
-    self.split.each do |word|
-      frequency[word] += 1
-    end
-
-    return frequency
+    split.each_with_object(Hash.new(0)) { |word, memo| memo[word] += 1 }
   end
 end
