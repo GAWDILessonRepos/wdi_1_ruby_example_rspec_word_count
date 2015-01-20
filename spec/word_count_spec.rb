@@ -1,5 +1,5 @@
 require 'spec_helper'
-require_relative '../word_count'
+require_relative '../lib/word_count'
 
 describe String do
   describe '#word_count' do
